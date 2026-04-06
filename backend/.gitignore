@@ -1,0 +1,26 @@
+# All virtual environments
+venv/
+env/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment variables file
+.env
+
+# Logs
+logs/       
+
+# Python test cache
+.pytest_cache/
+
+# IDE and OS Specific files
+.vscode/
+.DS_Store       
+Thumbs.db
+.idea/
+
+# FAST API Specific 
+test.dba
