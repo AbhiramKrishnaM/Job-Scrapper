@@ -1,1 +1,2 @@
 # Job Scrapper
+A private, automated Job Aggregator & CRM designed to streamline the daily job search process. This tool eliminates manual searching by scraping high-signal job boards and centralizing them into a single, actionable dashboard.
