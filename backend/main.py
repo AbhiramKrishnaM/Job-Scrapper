@@ -9,7 +9,7 @@ def get_jobs():
 
 
 # Status updating route
-@app.get("/status")
+@app.patch("/status")
 def update_status():
     return {"status": "updated"}
 
